@@ -1,9 +1,3 @@
-/*
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. You may distribute it under the terms of the MIT license.
-*/
-
 #include <iostream>
 #include <sstream>
 #include <vector>
